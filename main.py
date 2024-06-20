@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Tính tônổng, hiệu, tích và thương của 2 số")
+st.title("Tính tổng, hiệu, tích và thương của 2 số")
 
 st.header("Nhập 2 số")
 num1 = st.number_input("Số thứ nhất", value=0.0, format="%f")
